@@ -1,0 +1,16 @@
+body{
+  background-color: #F8F8FF;
+}
+.bg-navy{
+  background-color: #000080;
+}
+.co-logo{
+  background-color: #F8F8FF;
+}
+.sub-contact{
+  border: none;
+}
+.sub-contact:hover{
+  background-color: #F8F8FF;
+  color: #000080;
+}
