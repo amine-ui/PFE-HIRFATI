@@ -28,5 +28,3 @@ run there commands
 - php artisan serve
 
 HIRFATI is mediator between client and handyman,is powerful platforme, and provides tools required for serve client.# PFE-HIRFATI
-# PFE-HIRFATI
-# PFE-HIRFATI
