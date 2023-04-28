@@ -11,14 +11,14 @@
 
 ## How To Run this Project
 
-Firstavall you must to follow this steps:
+Firsteval you must to follow this steps:
 
 - Start MySql.
 - Go to phpMyAdmin create DataBase called hirfati_db.
 - copy all code in file .env.example to new fil (create file called .env in same place).
 - Go to project and open with VsCode.
 
-run there commands 
+Run this commands
 
 - composer i
 - npm i
